@@ -13,20 +13,5 @@ In order to have a standard reference to get the data, the whole network of IoB 
 
 The cost of the combined components for augmenting the banana amount to circa 35€.
 
-![Microprocessor NodeMCU Esp8266](https://drive.google.com/uc?export=view&id=1etoG1hMcUJuUqox-k9W0-Iionh7vJLY6)
+You can find images of reference in this [link](https://drive.google.com/drive/folders/1JukqVwc7tk5rox_YxoR-XdEBBeYo20Dp).
 
-![Color sensor TCS3200](https://drive.google.com/uc?export=view&id=17Q17ADQXHzx0rB1UngcNyLymwuXStmdy)
-
-![Temperature and humidity sensor DHT11](https://drive.google.com/uc?export=view&id=1RciUU8GCz76PJHDsDAckw8XHLKCDKoaT)
-
-![Jumper cable female to female](https://drive.google.com/uc?export=view&id=1czZaqu1rTtPhNZI7t1qGyiXF993FNMbd)
-
-![USB wall charger](https://drive.google.com/uc?export=view&id=1Kvsd9UAGUnYEFCOMYs62rp1NCVvVgWyE)
-
-![USB cable micro-B](https://drive.google.com/uc?export=view&id=1IVR8JzzioSf7wTG5GB4RQtdnNcXyEmYL)
-
-![Electrical tape](https://drive.google.com/uc?export=view&id=1U6lDyrngZ_bvDLNolf4DSkZB0ku_LfrN)
-
-![Rubber band](https://drive.google.com/uc?export=view&id=1Rq2yXkb7WgXmTk7BocrlrzmR6dHlGRKH)
-
-![Banana](https://drive.google.com/uc?export=view&id=1jRedkcOD_wSbkIAE_7YTfwggW7Z89MXp)
