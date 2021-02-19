@@ -19,7 +19,7 @@ Depending of the vendor, the NodeMCU or the sensors may be sold with unsoldered 
 
 Usually the jumper cables are sold in pack of 40 or 20 cables. For the project it will be necessary 10 of them, with female connectors in both ending of the cable. 
 
-The USB charger is the power supply of your IoB. Since it will be powering the IoB on for a whole week long with no-stop, consider to buy one of reasonable quality. The fast charger are not necessary, it will make no additional bennefit nor cause any problem for the NodeMCU. 
+The USB charger is the power supply of your IoB. Since it will be powering the IoB on for a whole week long, consider to buy one of reasonable quality. The fast charger are not necessary, it will make no additional bennefit nor cause any problem for the NodeMCU. 
 
 The USB cable Micro-B should be apart from the USB charger, so you can use it to upload the code from the computer to the NodeMCU, and after that you can use it in the charger as power supply.
 
