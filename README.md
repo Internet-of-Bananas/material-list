@@ -28,4 +28,4 @@ You can find images of reference in this [link](https://drive.google.com/drive/f
 If you have any doubt about the components, please don't hesitate to contact us at internetofbananas@gmail.com !
 
 
-  * Please consider buying a fairtrade, organic banana! It won't save the planet, but every little bit helps =)
+_* Please consider buying a fairtrade, organic banana! It won't save the planet, but every little bit helps =)
